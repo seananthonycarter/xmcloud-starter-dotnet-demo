@@ -69,7 +69,7 @@ Write-SitecoreDockerWelcome
 ##################
 if ($InitEnv) {
     Write-Host "Creating .env file." -ForegroundColor Green
-    Copy-Item "..\.env.template" "..\.env" -Force
+    Copy-Item "C:\Projects\xmcloud-starter-dotnet-demo\local-containers\.env.template" "C:\Projects\xmcloud-starter-dotnet-demo\local-containers\.env" -Force
 }
 
 ##################################

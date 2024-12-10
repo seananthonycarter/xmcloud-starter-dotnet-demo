@@ -1,0 +1,37 @@
+﻿---
+ID: "0a8b4e0e-af94-484c-81e9-60ad68eff7a0"
+Parent: "ebb7b65c-8ed0-4cca-80a2-e2aab7712bba"
+Template: "ebb7b65c-8ed0-4cca-80a2-e2aab7712bba"
+Path: "/sitecore/templates/Project/hcc-demo-sites/Partial Design Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {EBB7B65C-8ED0-4CCA-80A2-E2AAB7712BBA}
+    {FD2059FD-6043-4DFE-8C04-E2437CE87634}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241206T084101Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d29b7fc0-a9e7-4081-bab4-2728d210ae1f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241206T084105Z

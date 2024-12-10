@@ -11,7 +11,7 @@ public class Promo : BaseModel
     public ImageField? PromoIcon { get; set; }
 
     [SitecoreComponentField]
-    public TextField? PromoText { get; set; }
+    public RichTextField? PromoText { get; set; }
 
     [SitecoreComponentField]
     public HyperLinkField? PromoLink { get; set; }

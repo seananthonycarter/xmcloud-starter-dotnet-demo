@@ -1,0 +1,80 @@
+﻿---
+ID: "e1f0f278-03c9-452d-b3a2-f8cdfd2250e1"
+Parent: "13fcfb0b-72ec-4dfb-8cd0-46aa60bd63d1"
+Template: "ca0bd3e1-b052-42a1-be52-9e5f5f1884d7"
+Path: "/sitecore/content/hcc-demo-sites/skate-park-demo/Settings"
+SharedFields:
+- ID: "0129da3f-8c86-4591-ae32-6ec923413923"
+  Hint: DictionaryDomain
+  Value: "{DF652E52-C9A4-4200-B1BA-E8CFA031A3D1}"
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{C2DC4690-AF44-48C7-BB21-90D1AD246732}"
+- ID: "300fb7a0-b27f-44dd-9af0-b37a19723e0e"
+  Hint: RouteTemplateName
+  Value: Settings Route
+- ID: "32ce6bbe-4217-46e5-9335-42793884cbe3"
+  Hint: AppTemplate
+  Value: "{883626BF-3770-4393-B4EA-07039C2ACE24}"
+- ID: "3e4f559f-8e59-4405-b50d-619811371f6c"
+  Hint: Name
+  Value: "skate-park-demo"
+- ID: "5764d2d4-724d-4313-a81b-9246c911faff"
+  Hint: AppDatasourcesPath
+  Value: "{AEB8A77D-48E4-40CF-B064-B04425B1FFF4}"
+- ID: "5ca117eb-8782-4a4f-9f2f-30de31fc2e34"
+  Hint: PlaceholdersPath
+  Value: "{00839B73-811F-4ABC-BEC5-FC8629DEC4E3}"
+- ID: "72e83c8d-3578-4e50-b4c0-93a78a1729f2"
+  Hint: FilesystemPath
+  Value: "/dist/skate-park-demo"
+- ID: "9016141c-ff51-40f2-9135-40f5161b9784"
+  Hint: ServerSideRenderingEngine
+  Value: http
+- ID: "a7bbad73-b933-49ff-95c8-1c269cb35e7c"
+  Hint: DictionaryPath
+  Value: "{DF652E52-C9A4-4200-B1BA-E8CFA031A3D1}"
+- ID: "af332c24-fe17-41e7-8caf-8e64c588fe72"
+  Hint: EditingTheme
+  Value: "{3BCAB9EF-1E4F-4C23-B452-783BB82AA686}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2000
+- ID: "c8d002f9-9518-4c5e-9baa-6617e13f0797"
+  Hint: LayoutPath
+  Value: "{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"
+- ID: "e8881464-38af-4655-be4a-ee10586578a2"
+  Hint: Templates
+  Value: "{8773F532-ED6E-4CFB-925E-89E905DA1027}"
+- ID: "f29428d5-1285-48b8-a884-44057965829a"
+  Hint: RenderingsPath
+  Value: "{50B3B298-7B22-47C0-A821-507BFD44E676}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0FEEB907-58F0-44DE-B08C-2F43C063D0A5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241206T084411Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f141c4b7-fa93-4ec7-9834-78c47b8342bf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241206T084412Z

@@ -1,0 +1,20 @@
+{
+    "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "content.test",
+    "items": {
+        "includes": [
+            {
+                "name": "testtemplates",
+                "path": "/sitecore/templates/Project/Test Template Folder",
+                "allowedPushOperations": "CreateUpdateAndDelete",
+                "scope": "itemAndDescendants"
+            },
+            {
+                "name": "testcontent",
+                "path": "/sitecore/content/Home",
+                "allowedPushOperations": "CreateUpdateAndDelete",
+                "scope": "itemAndDescendants"
+            }
+        ]
+    }
+}

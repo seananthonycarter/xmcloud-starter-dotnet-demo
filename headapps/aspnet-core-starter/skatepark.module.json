@@ -1,0 +1,26 @@
+{
+    "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "content.skatepark",
+    "items": {
+        "includes": [
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/hcc-demo-sites",
+                "allowedPushOperations": "CreateUpdateAndDelete",
+                "scope": "itemAndDescendants"
+            },
+            {
+                "name": "content-root",
+                "path": "/sitecore/content/hcc-demo-sites/skate-park-demo",
+                "allowedPushOperations": "CreateUpdateAndDelete",
+                "scope": "itemAndDescendants"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/hcc-demo-sites",
+                "allowedPushOperations": "CreateUpdateAndDelete",
+                "scope": "itemAndDescendants"
+            }
+        ]
+    }
+}

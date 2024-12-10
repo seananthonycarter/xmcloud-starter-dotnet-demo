@@ -1,0 +1,64 @@
+﻿---
+ID: "971d0d84-61c6-43ee-b415-f3945a261d98"
+Parent: "795daf63-d46d-4ad8-8cc4-2498136441eb"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/hcc-demo-sites/skate-park-demo/Presentation/Partial Designs/Header"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C44CB181-E53B-487A-B9AB-80DC1C5FEB58}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A54DFE58-B1E9-4663-8790-EEED70848BDA}"
+          p:before="*"
+          s:ds="local:/Data/Title"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bD006E7CC-8766-4AE8-B121-7473019EF040%7d&amp;FieldNames=%7b0DD8ED67-BD4D-41DA-A453-711A5A809269%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b81225C08-5783-4BED-A86A-AB2B87198885%7d"
+          s:ph="headless-header" />
+        <r
+          uid="{49B643E2-72FB-48CC-B230-AFA1E085C99D}"
+          p:after="*[1=2]"
+          s:id="{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
+          s:par="?LevelFrom={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;LevelTo={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;FieldNames=%7b34B4C39E-7BAE-4F53-887A-26C6C92AA654%7d&amp;AddRoot=1&amp;Styles=%7b31FE29DE-224C-4660-9FFD-6E81D06A5D56%7d%7c%7b522BFA39-7CA7-40D9-91B1-C80E9ABC0067%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;NavigationRoot=%7b42F786E7-CD31-4C29-AA70-8611AE4BA312%7d"
+          s:ph="headless-header" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D044EFED-079F-4CB1-9D22-E7BFF1DB5A8F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241206T084433Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4b7cf23-56eb-41bd-8400-1168d8cb8ba5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241207T132326Z
